@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/TYNhFd4.png?1)
-
 # Robert H. Rwibutso
 ## 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
 
