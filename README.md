@@ -1,7 +1,6 @@
-(https://imgur.com/a/64pJqaH)
+![Banner](https://i.imgur.com/64pJqaH.png)
 
 # Robert H. Rwibutso
-
 ## 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
 
 <p align="center">
@@ -13,7 +12,7 @@ Passionate as ever!👌
 ### 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robsdagreat&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -27,40 +26,37 @@ Passionate as ever!👌
     <td width="50%">
       <h3 align="center">MyBrand</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://your-image-url.com/project1.png" width="100%" alt="Project 1"/>
+        <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
+          <img src="https://i.imgur.com/0DO0cVy.png" width="100%" alt="MyBrand"/>
         </a>
-        <span> <a href="https://github.com/yourusername/project1" target="_blank">
+        <span> <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
           <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
         </a> </span>
-        <span> <a href="https://your-deployed-app.com" target="_blank">
-          <img src="https://imgur.com/a/0DO0cVy">
+        <span> <a href="https://your-deployed-mybrand-app.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
         </a> </span>
-        <p><strong>Tech Stack:</strong> HTML, CSS, JAVASCRIPT </p>
-        <p>This project showcases my skills, projects, and a brief introduction about me. Feel free to explore and get to know me better.
-
-Table of Contents</p>
+        <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript </p>
+        <p>This project showcases my skills, projects, and a brief introduction about me. Feel free to explore and get to know me better.</p>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Depot</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://imgur.com/ZuXlI1B" width="100%" alt="Project 2"/>
+        <a href="https://github.com/robsdagreat/Depot" target="_blank">
+          <img src="https://i.imgur.com/ZuXlI1B.png" width="100%" alt="Depot"/>
         </a>
-        <span> <a href="https://github.com/yourusername/project2" target="_blank">
+        <span> <a href="https://github.com/robsdagreat/Depot" target="_blank">
           <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
         </a> </span>
-        <span> <a href="https://your-deployed-app2.com" target="_blank">
+        <span> <a href="https://your-deployed-depot-app.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
         </a> </span>
-        <p><strong>Tech Stack:</strong> TypeScript, Express, PostgreSQL</p>
-        <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management. The project structure follows best practices for scalability and maintainability, ensuring a smooth shopping experience for users.</p>
+        <p><strong>Tech Stack:</strong> React, Redux, TypeScript</p>
+        <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management.</p>
       </p>
     </td>
   </tr>
 </table>
-
 
 ### 📊 This Week I Spent My Time On
 
@@ -69,4 +65,4 @@ TypeScript   7 hrs 41 mins   ███████████████░░
 JavaScript   2 hrs 50 mins   ██████░░░░░░░░░░░░░░░   22.32 %
 React        1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░   11.39 %
 C#           38 mins         █░░░░░░░░░░░░░░░░░░░░   05.03 %
-Unity3D     30 mins          ░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Unity3D      30 mins         ░░░░░░░░░░░░░░░░░░░░░   01.14 %
