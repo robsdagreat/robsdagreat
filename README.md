@@ -1,74 +1,73 @@
+![Banner](https://imgur.com/a/64pJqaH)
+
 # Robert H. Rwibutso
 
 ## 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
 
-Hello! I'm Robert, a passionate Full-Stack Developer with 3 years of hands-on experience in the software development industry. Currently pursuing a Bachelor's degree in Computer Engineering at the University of Rwanda (2022-2025).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
-📍 Kigali, Rwanda | 📞 +250 790 929 784 | 📧 rwibutsorobert12@gmail.com
+[Your existing "About Me" section]
 
-### 🚀 About Me
+### 🔥 My Stats
 
-I'm dedicated to creating efficient and user-friendly web applications. My journey in tech has led me through various internships and training programs, constantly expanding my skill set and embracing new challenges.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-### 💼 Professional Experience
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
 
-- **Full-Stack Developer Trainee** | Andela Leadership Program (Feb 2024 - Present)
-  - Participating in a 9-month remote Full-Stack program
-  - Focusing on backend API engineering, code quality, testing, and frontend development
-  - Enhancing leadership and business skills through Professional Skills sessions
+### 🚀 Featured Projects
 
-- **Frontend Developer** | MBAZA NLP (May 2023 - June 2023)
-  - Developed the community website for NLP enthusiasts
-  - Utilized HTML, CSS, and JavaScript to create a user-friendly interface
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MyBrand</h3>
+      <p align="center">
+        <a href="https://github.com/yourusername/project1" target="_blank">
+          <img src="https://your-image-url.com/project1.png" width="100%" alt="Project 1"/>
+        </a>
+        <span> <a href="https://github.com/yourusername/project1" target="_blank">
+          <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
+        </a> </span>
+        <span> <a href="https://your-deployed-app.com" target="_blank">
+          <img src="https://imgur.com/a/0DO0cVy">
+        </a> </span>
+        <p><strong>Tech Stack:</strong> HTML, CSS, JAVASCRIPT </p>
+        <p>This project showcases my skills, projects, and a brief introduction about me. Feel free to explore and get to know me better.
 
-- **MERN Stack Developer Intern** | IGIRE RWANDA (Feb 2023 - June 2023)
-  - Worked on various projects using MongoDB, Express.js, React, and Node.js
-  - Collaborated with experienced developers and learned industry best practices
+Table of Contents</p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Depot</h3>
+      <p align="center">
+        <a href="https://github.com/yourusername/project2" target="_blank">
+          <img src="https://imgur.com/ZuXlI1B" width="100%" alt="Project 2"/>
+        </a>
+        <span> <a href="https://github.com/yourusername/project2" target="_blank">
+          <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
+        </a> </span>
+        <span> <a href="https://your-deployed-app2.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+        </a> </span>
+        <p><strong>Tech Stack:</strong> TypeScript, Express, PostgreSQL</p>
+        <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management. The project structure follows best practices for scalability and maintainability, ensuring a smooth shopping experience for users.</p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Technical Skills
+[Your existing "Technical Skills" section]
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### 📊 This Week I Spent My Time On
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-#### Tools & Others
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### 🌟 Soft Skills
-
-- Remote Working
-- Problem Solving
-- Public Relations
-- Teamwork
-- Time Management
-- Leadership
-- Effective Communication
-- Critical Thinking
-
-### 🌐 Languages
-
-- English (Fluent)
-- Kinyarwanda (Native)
-- Swahili (Intermediate)
-
-### 📚 Education
-
-**Bachelor's in Computer Engineering** | University of Rwanda (2022 - 2025)
-
-### 📫 Let's Connect!
-
-Feel free to reach out for collaborations or just a chat about technology!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+```text
+TypeScript   7 hrs 41 mins   ███████████████░░░░░░   60.12 %
+JavaScript   2 hrs 50 mins   ██████░░░░░░░░░░░░░░░   22.32 %
+React        1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░   11.39 %
+C#           38 mins         █░░░░░░░░░░░░░░░░░░░░   05.03 %
+Unity3D     30 mins          ░░░░░░░░░░░░░░░░░░░░░   01.14 %
