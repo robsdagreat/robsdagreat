@@ -48,7 +48,7 @@ Passionate as ever!👌
         <span> <a href="https://your-deployed-depot-app.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
         </a> </span>
-        <p><strong>Tech Stack:</strong> React, Redux, TypeScript</p>
+        <p><strong>Tech Stack:</strong> React, Redux, TypeScript and PosgreSQL</p>
         <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management.</p>
       </p>
     </td>
