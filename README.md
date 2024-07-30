@@ -27,7 +27,7 @@ Passionate as ever!👌
       <h3 align="center">MyBrand</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
-          <img src="https://i.imgur.com/0DO0cVy.png" width="100%" alt="MyBrand"/>
+          <img src="https://imgur.com/QJjtQMB" width="100%" alt="MyBrand"/>
         </a>
         <span> <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
           <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
