@@ -1,4 +1,4 @@
-![Banner]([img]https://i.imgur.com/TYNhFd4.jpg[/img])
+![Banner](https://i.imgur.com/TYNhFd4.jpg)
 
 # Robert H. Rwibutso
 ## 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
