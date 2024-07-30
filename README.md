@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/64pJqaH)
+(https://imgur.com/a/64pJqaH)
 
 # Robert H. Rwibutso
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-[Your existing "About Me" section]
+Passionate as ever!👌
 
 ### 🔥 My Stats
 
@@ -61,7 +61,6 @@ Table of Contents</p>
   </tr>
 </table>
 
-[Your existing "Technical Skills" section]
 
 ### 📊 This Week I Spent My Time On
 
