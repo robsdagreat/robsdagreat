@@ -18,7 +18,6 @@ Passionate as ever!👌
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsdagreat&theme=radical" alt="GitHub Streak" />
 </p>
-
 ### 🚀 Featured Projects
 
 <table>
@@ -27,7 +26,7 @@ Passionate as ever!👌
       <h3 align="center">MyBrand</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
-          <img src="https://imgur.com/QJjtQMB" width="100%" alt="MyBrand"/>
+          <img src="https://i.imgur.com/QJjtQMB.png" width="100%" alt="MyBrand"/>
         </a>
         <span> <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
           <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
