@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/TYNhFd4)
+![Banner](<blockquote class="imgur-embed-pub" lang="en" data-id="TYNhFd4"><a href="https://imgur.com/TYNhFd4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 # Robert H. Rwibutso
 ## 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
