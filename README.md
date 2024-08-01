@@ -18,7 +18,7 @@ Passionate as ever!👌
 </p>
 ### 🚀 Featured Projects
 
-<table>
+<table>     
   <tr>
     <td width="50%">
       <h3 align="center">MyBrand</h3>
