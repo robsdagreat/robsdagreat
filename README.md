@@ -7,7 +7,7 @@
 
 Passionate as ever!👌
 
-### 🔥 My Stats
+ 🔥 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robsdagreat&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -16,7 +16,7 @@ Passionate as ever!👌
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsdagreat&theme=radical" alt="GitHub Streak" />
 </p>
-### 🚀 Featured Projects
+ 🚀 Featured Projects
 
 <table>     
   <tr>
