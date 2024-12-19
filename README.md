@@ -52,6 +52,22 @@ Passionate as ever!👌
         <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management.</p>
       </p>
     </td>
+  <td width="50%">
+      <h3 align="center">Pallotti Children Hope centre Website</h3>
+      <p align="center">
+        <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
+          <img src="https://i.imgur.com/QJjtQMB.png" width="100%" alt="MyBrand"/>
+        </a>
+        <span> <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
+          <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
+        </a> </span>
+        <span> <a href="https://your-deployed-mybrand-app.com" target="_blank">
+          <img src="https://imgur.com/PthApxY">
+        </a> </span>
+        <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript </p>
+        <p>This project was about creating a website for a non profit organisation called Pallotti Children Hope Centre based in Rwanda. Its aim is to help children with mild and severe autism, impacting positively their study life and even their social life engagement.</p>
+      </p>
+    </td>
   </tr>
 </table>
 
