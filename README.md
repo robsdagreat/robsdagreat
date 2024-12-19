@@ -56,7 +56,7 @@ Passionate as ever!👌
       <h3 align="center">Pallotti Children Hope centre Website</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
-          <img src="https://i.imgur.com/QJjtQMB.png" width="100%" alt="MyBrand"/>
+          <img src="https://imgur.com/a/CPvgYEc" width="100%" alt="MyBrand"/>
         </a>
         <span> <a href="https://github.com/robsdagreat/pchc-project" target="https://pallottichildrenhopecentre.org.rw/">
           <img src="https://imgur.com/PthApxY">
