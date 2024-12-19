@@ -64,7 +64,7 @@ Passionate as ever!👌
         <span> <a href="https://your-deployed-mybrand-app.com" target="_blank">
           <img src="https://imgur.com/PthApxY">
         </a> </span>
-        <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript </p>
+        <p><strong>Tech Stack:</strong> React JS, Tailwind CSS, EmailJS for sending emails  </p>
         <p>This project was about creating a website for a non profit organisation called Pallotti Children Hope Centre based in Rwanda. Its aim is to help children with mild and severe autism, impacting positively their study life and even their social life engagement.</p>
       </p>
     </td>
