@@ -20,7 +20,7 @@ Passionate as ever!👌
 
 <table>     
   <tr>
-    <td width="50%">
+    <td width="30%">
       <h3 align="center">MyBrand</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
@@ -36,7 +36,7 @@ Passionate as ever!👌
         <p>This project showcases my skills, projects, and a brief introduction about me. Feel free to explore and get to know me better.</p>
       </p>
     </td>
-    <td width="50%">
+    <td width="30%">
       <h3 align="center">Depot</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/Depot" target="_blank">
@@ -52,14 +52,14 @@ Passionate as ever!👌
         <p>This project is a front-end application for an E-Commerce platform built with React and Redux. It provides a user-friendly interface for customers to browse products, add items to their cart, and make purchases. The application also includes features for user authentication, product search, and order management.</p>
       </p>
     </td>
-  <td width="50%">
+  <td width="30%">
       <h3 align="center">Pallotti Children Hope centre Website</h3>
       <p align="center">
         <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
           <img src="https://i.imgur.com/QJjtQMB.png" width="100%" alt="MyBrand"/>
         </a>
-        <span> <a href="https://github.com/robsdagreat/MyBrand" target="_blank">
-          <img src="https://img.shields.io/badge/Code-080707?style=for-the-badge&logo=github&logoColor=white">
+        <span> <a href="https://github.com/robsdagreat/pchc-project" target="https://pallottichildrenhopecentre.org.rw/">
+          <img src="https://imgur.com/PthApxY">
         </a> </span>
         <span> <a href="https://your-deployed-mybrand-app.com" target="_blank">
           <img src="https://imgur.com/PthApxY">
